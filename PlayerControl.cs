@@ -5,7 +5,7 @@ public class PlayerControl : MonoBehaviour {
     [SerializeField]
     private float speed;
     [SerializeField]
-    private float lookspeed = 3f;
+    private float lookspeed = 5f;
     PlayerMotor motor;
 	// Use this for initialization
 	void Start () {
